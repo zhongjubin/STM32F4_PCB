@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=5V_REGULATOR-4
+Removed Pin From Net: NetName=GND Pin=15V_REGULATOR-4
+Added Pin To Net: NetName=GND Pin=5V_REGULATOR-5
+Added Pin To Net: NetName=GND Pin=15V_REGULATOR-5
+Added Member To Class: ClassName=STM32F4 Member=Component  *

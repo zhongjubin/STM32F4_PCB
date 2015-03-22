@@ -1,0 +1,7 @@
+Added Component: Designator=AMS1117(AMS1117)
+Added Pin To Net: NetName=GND Pin=AMS1117-1
+Added Pin To Net: NetName=VDD Pin=AMS1117-2
+Added Pin To Net: NetName=5V Pin=AMS1117-3
+Added Pin To Net: NetName=VDD Pin=AMS1117-4
+Added Member To Class: ClassName=STM32F4 Member=Component AMS1117
+Added Member To Class: ClassName=STM32F4 Member=Component  *

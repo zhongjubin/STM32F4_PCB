@@ -1,0 +1,19 @@
+Change Component Designator: OldDesignator=C411 NewDesignator=FT232.C2
+Change Component Designator: OldDesignator=C412 NewDesignator=FT232.C3
+Change Component Designator: OldDesignator=C413 NewDesignator=FT232.C1
+Change Component Designator: OldDesignator=C414 NewDesignator=FT232.C4
+Change Component Designator: OldDesignator=C415 NewDesignator=FT232.C5
+Change Component Designator: OldDesignator=C416 NewDesignator=FT232.C6
+Change Component Designator: OldDesignator=C423_100uf NewDesignator=FT232.C7
+Change Component Designator: OldDesignator=R411 NewDesignator=FT232.R1
+Change Component Designator: OldDesignator=R412 NewDesignator=FT232.R2
+Change Component Designator: OldDesignator=R413 NewDesignator=FT232.R3
+Change Component Designator: OldDesignator=R414 NewDesignator=FT232.R4
+Change Component Designator: OldDesignator=RRX NewDesignator=FT232.RX
+Change Component Designator: OldDesignator=RTX NewDesignator=FT232.TX
+Change Component Designator: OldDesignator=Y401 NewDesignator=FT232.XTAL
+Change Net Name : Old Net Name=NetC411_1 New Net Name=NetFT232_27
+Change Net Name : Old Net Name=NetC412_1 New Net Name=NetFT232_28
+Change Net Name : Old Net Name=NetC413_1 New Net Name=NetFT232_6
+Change Net Name : Old Net Name=NetC414_1 New Net Name=NetFT232_30
+Added Member To Class: ClassName=STM32F4 Member=Component  *

@@ -1,0 +1,13 @@
+Added Component: Designator=5V_REGULATOR(URA)
+Added Component: Designator=15V_REGULATOR(URA)
+Added Pin To Net: NetName=Net5V_REGULATOR_1 Pin=5V_REGULATOR-1
+Added Pin To Net: NetName=Net5V_REGULATOR_2 Pin=5V_REGULATOR-2
+Added Pin To Net: NetName=5V Pin=5V_REGULATOR-3
+Added Pin To Net: NetName=GND Pin=5V_REGULATOR-5
+Added Pin To Net: NetName=Net15V_REGULATOR_1 Pin=15V_REGULATOR-1
+Added Pin To Net: NetName=Net15V_REGULATOR_2 Pin=15V_REGULATOR-2
+Added Pin To Net: NetName=15V Pin=15V_REGULATOR-3
+Added Pin To Net: NetName=GND Pin=15V_REGULATOR-5
+Added Member To Class: ClassName=STM32F4 Member=Component 5V_REGULATOR
+Added Member To Class: ClassName=STM32F4 Member=Component 15V_REGULATOR
+Added Member To Class: ClassName=STM32F4 Member=Component  *
